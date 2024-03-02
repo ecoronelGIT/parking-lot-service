@@ -1,0 +1,28 @@
+
+INSERT INTO public.parking_spot (id, number, type)
+VALUES
+    (1, 1, 'REGULAR'),
+    (2, 2, 'REGULAR'),
+    (3, 3, 'REGULAR'),
+    (4, 4, 'REGULAR'),
+    (5, 5, 'REGULAR'),
+    (6, 6, 'REGULAR'),
+    (7, 7, 'REGULAR'),
+    (8, 8, 'REGULAR'),
+    (9, 9, 'REGULAR'),
+    (10, 10, 'REGULAR'),
+    (11, 11, 'REGULAR'),
+    (12, 12, 'REGULAR'),
+    (13, 13, 'REGULAR'),
+    (14, 14, 'REGULAR'),
+    (15, 15, 'REGULAR'),
+    (16, 16, 'REGULAR'),
+    (17, 17, 'REGULAR'),
+    (18, 18, 'REGULAR'),
+    (19, 19, 'REGULAR'),
+    (20, 20, 'REGULAR'),
+    (21, 21, 'REGULAR'),
+    (22, 22, 'REGULAR'),
+    (23, 23, 'REGULAR'),
+    (24, 24, 'REGULAR'),
+    (25, 25, 'REGULAR');

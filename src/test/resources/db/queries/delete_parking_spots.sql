@@ -1,0 +1,1 @@
+DELETE FROM public.parking_spot;

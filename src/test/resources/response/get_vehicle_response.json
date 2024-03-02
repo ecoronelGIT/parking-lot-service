@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "vehicle_number": "AAA1111",
+    "vehicle_type": "CAR",
+    "vehicle_park_date": "01-01-2024 10:00:00",
+    "parking_spots": [
+      {
+        "id": 1,
+        "spot_number": 1,
+        "spot_type": "REGULAR"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "vehicle_number": "BBB2222",
+    "vehicle_type": "CAR",
+    "vehicle_park_date": "01-01-2024 11:00:00",
+    "parking_spots": [
+      {
+        "id": 2,
+        "spot_number": 2,
+        "spot_type": "REGULAR"
+      }
+    ]
+  }
+]

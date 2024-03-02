@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "vehicle_number": "ARD123",
+  "vehicle_type": "VAN",
+  "vehicle_park_date": "01-03-2024 12:00:00",
+  "parking_spots": [
+    {
+      "id": 1,
+      "spot_number": 1,
+      "spot_type": "REGULAR"
+    },
+    {
+      "id": 2,
+      "spot_number": 2,
+      "spot_type": "REGULAR"
+    },
+    {
+      "id": 3,
+      "spot_number": 3,
+      "spot_type": "REGULAR"
+    }
+  ]
+}

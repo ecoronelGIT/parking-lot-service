@@ -1,0 +1,1 @@
+INSERT INTO public.parking_spot(id, number, type) VALUES (1, 1, 'REGULAR'), (2, 2, 'REGULAR');
